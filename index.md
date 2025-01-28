@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Alyssa DiTroia: Welcome to my academic blog
 ---
 
